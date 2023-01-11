@@ -7,6 +7,9 @@ A small-little ray tracing engine written in C++ and outputs images in .ppm form
 - A counter to display the number of lines remaining in the rendering of the image
 - A lot of math that is enough to hurt the brain
 
+## 🕹️ Demo!
+![image](https://user-images.githubusercontent.com/88013020/211924890-fcf5b26a-7507-42ce-b011-7694d54fade2.png)
+
 ### 😸 Special thanks to:
 https://github.com/RayTracing/raytracing.github.io ...
 this source allowed me to learn many concepts so that I could effectively write a functional engine
